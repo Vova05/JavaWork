@@ -1,0 +1,14 @@
+com/example/demo/demo/BeanConfig.java
+ com.example.demo.demo.BeanConfig
+com/example/demo/demo/components/Guitarist.java
+ com.example.demo.demo.components.Guitarist
+com/example/demo/demo/components/Drummer.java
+ com.example.demo.demo.components.Drummer
+com/example/demo/demo/Musician.java
+ com.example.demo.demo.Musician
+com/example/demo/demo/components/Trombonist.java
+ com.example.demo.demo.components.Trombonist
+com/example/demo/demo/AutoConfig.java
+ com.example.demo.demo.AutoConfig
+com/example/demo/DemoApplication.java
+ com.example.demo.DemoApplication
