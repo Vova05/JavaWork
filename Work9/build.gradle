@@ -1,0 +1,46 @@
+plugins {
+    id 'java'
+}
+
+group 'Work9'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+jar {
+    manifest {
+        attributes "Main-Class": "Work9.Root"
+    }
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+    finalizedBy {
+        MakeJar
+    }
+}
+
+task MakeJar(type: Copy) {
+    from jar
+    into projectDir
+    finalizedBy {
+        BuildDocker
+    }
+}
+
+task BuildDocker(type: Exec) {
+    workingDir projectDir
+    commandLine "docker", "build", "-t", "${project.name}:${project.version}", "."
+    finalizedBy {
+        RunDocker
+    }
+}
+
+task RunDocker(type: Exec) {
+    commandLine "docker", "run", "${project.name}:${project.version}"
+}
