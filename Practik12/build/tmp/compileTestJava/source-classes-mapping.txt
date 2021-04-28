@@ -1,0 +1,2 @@
+com/example/practik12/Practik12ApplicationTests.java
+ com.example.practik12.Practik12ApplicationTests

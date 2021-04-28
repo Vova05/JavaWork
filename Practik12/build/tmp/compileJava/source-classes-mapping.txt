@@ -1,0 +1,8 @@
+com/example/practik12/FileConverter/ReadAndHash.java
+ com.example.demo.FileConverter.ReadAndHash
+com/example/practik12/config/Config.java
+ com.example.demo.config.Config
+com/example/practik12/JavaApplication.java
+ com.example.demo.JavaApplication
+com/example/practik12/FileConverter/Converter.java
+ com.example.demo.FileConverter.Converter
