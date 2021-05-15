@@ -1,0 +1,125 @@
+1451 [restartedMain] INFO  com.example.demo.JavaApplication –Starting JavaApplication using Java 15.0.2 on Best-Komp with PID 5864 (C:\Users\Admin\IdeaProjects\pr21\target\classes started by Admin in C:\Users\Admin\IdeaProjects\pr21)
+1453 [background-preinit] INFO  o.h.validator.internal.util.Version –HV000001: Hibernate Validator 6.1.7.Final
+1455 [restartedMain] INFO  com.example.demo.JavaApplication –No active profile set, falling back to default profiles: default
+1535 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor –Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+1536 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor –For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2577 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate –Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2633 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate –Finished Spring Data repository scanning in 47 ms. Found 2 JPA repository interfaces.
+3226 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer –Tomcat initialized with port(s): 8080 (http)
+3234 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol –Initializing ProtocolHandler ["http-nio-8080"]
+3235 [restartedMain] INFO  o.a.catalina.core.StandardService –Starting service [Tomcat]
+3235 [restartedMain] INFO  o.a.catalina.core.StandardEngine –Starting Servlet engine: [Apache Tomcat/9.0.44]
+3320 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] –Initializing Spring embedded WebApplicationContext
+3321 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext –Root WebApplicationContext: initialization completed in 1783 ms
+3583 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper –HHH000204: Processing PersistenceUnitInfo [name: default]
+3616 [restartedMain] INFO  org.hibernate.Version –HHH000412: Hibernate ORM core version 5.4.29.Final
+3722 [restartedMain] INFO  o.h.annotations.common.Version –HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+3814 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource –HikariPool-1 - Starting...
+4042 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource –HikariPool-1 - Start completed.
+4055 [restartedMain] INFO  org.hibernate.dialect.Dialect –HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+4897 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator –HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+4905 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean –Initialized JPA EntityManagerFactory for persistence unit 'default'
+4940 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer –LiveReload server is running on port 35729
+5375 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration –spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+5483 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor –Initializing ExecutorService 'applicationTaskExecutor'
+5882 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver –Exposing 2 endpoint(s) beneath base path '/actuator'
+5924 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol –Starting ProtocolHandler ["http-nio-8080"]
+5945 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer –Tomcat started on port(s): 8080 (http) with context path ''
+5964 [restartedMain] INFO  com.example.demo.JavaApplication –Started JavaApplication in 5.164 seconds (JVM running for 6.955)
+6296 [RMI TCP Connection(2)-172.18.33.49] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] –Initializing Spring DispatcherServlet 'dispatcherServlet'
+6296 [RMI TCP Connection(2)-172.18.33.49] INFO  o.s.web.servlet.DispatcherServlet –Initializing Servlet 'dispatcherServlet'
+6298 [RMI TCP Connection(2)-172.18.33.49] INFO  o.s.web.servlet.DispatcherServlet –Completed initialization in 2 ms
+1139 [background-preinit] INFO  o.h.validator.internal.util.Version –HV000001: Hibernate Validator 6.1.7.Final
+1139 [restartedMain] INFO  com.example.demo.JavaApplication –Starting JavaApplication using Java 15.0.2 on Best-Komp with PID 8496 (C:\Users\Admin\IdeaProjects\pr21\target\classes started by Admin in C:\Users\Admin\IdeaProjects\pr21)
+1143 [restartedMain] INFO  com.example.demo.JavaApplication –No active profile set, falling back to default profiles: default
+1219 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor –Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+1220 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor –For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2385 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate –Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2449 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate –Finished Spring Data repository scanning in 55 ms. Found 2 JPA repository interfaces.
+3079 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer –Tomcat initialized with port(s): 8080 (http)
+3087 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol –Initializing ProtocolHandler ["http-nio-8080"]
+3088 [restartedMain] INFO  o.a.catalina.core.StandardService –Starting service [Tomcat]
+3088 [restartedMain] INFO  o.a.catalina.core.StandardEngine –Starting Servlet engine: [Apache Tomcat/9.0.44]
+3173 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] –Initializing Spring embedded WebApplicationContext
+3174 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext –Root WebApplicationContext: initialization completed in 1953 ms
+3439 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper –HHH000204: Processing PersistenceUnitInfo [name: default]
+3475 [restartedMain] INFO  org.hibernate.Version –HHH000412: Hibernate ORM core version 5.4.29.Final
+3584 [restartedMain] INFO  o.h.annotations.common.Version –HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+3674 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource –HikariPool-1 - Starting...
+3826 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource –HikariPool-1 - Start completed.
+3837 [restartedMain] INFO  org.hibernate.dialect.Dialect –HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+4689 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator –HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+4697 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean –Initialized JPA EntityManagerFactory for persistence unit 'default'
+4732 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer –LiveReload server is running on port 35729
+5212 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration –spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+5347 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor –Initializing ExecutorService 'applicationTaskExecutor'
+5755 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver –Exposing 2 endpoint(s) beneath base path '/actuator'
+5795 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol –Starting ProtocolHandler ["http-nio-8080"]
+5817 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer –Tomcat started on port(s): 8080 (http) with context path ''
+5836 [restartedMain] INFO  com.example.demo.JavaApplication –Started JavaApplication in 5.27 seconds (JVM running for 6.67)
+6404 [RMI TCP Connection(3)-172.18.33.49] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] –Initializing Spring DispatcherServlet 'dispatcherServlet'
+6405 [RMI TCP Connection(3)-172.18.33.49] INFO  o.s.web.servlet.DispatcherServlet –Initializing Servlet 'dispatcherServlet'
+6406 [RMI TCP Connection(3)-172.18.33.49] INFO  o.s.web.servlet.DispatcherServlet –Completed initialization in 1 ms
+18081 [http-nio-8080-exec-3] INFO  com.example.demo.log.Aspect –Parameters: {}
+18103 [http-nio-8080-exec-3] INFO  c.example.demo.service.bankService –Found all banks
+18372 [http-nio-8080-exec-3] INFO  com.example.demo.log.Aspect –Parameters: {}
+18380 [http-nio-8080-exec-3] INFO  c.example.demo.service.cardService –Found all cards
+52300 [http-nio-8080-exec-7] INFO  com.example.demo.log.Aspect –Parameters: Bank(id=null, name=fe, address=fdf, cardList=null)
+52301 [http-nio-8080-exec-7] INFO  c.example.demo.service.bankService –Added new bank Bank(id=null, name=fe, address=fdf, cardList=null)
+53612 [http-nio-8080-exec-8] INFO  com.example.demo.log.Aspect –Parameters: {}
+53612 [http-nio-8080-exec-8] INFO  c.example.demo.service.bankService –Found all banks
+53619 [http-nio-8080-exec-8] INFO  com.example.demo.log.Aspect –Parameters: {}
+53619 [http-nio-8080-exec-8] INFO  c.example.demo.service.cardService –Found all cards
+1303 [background-preinit] INFO  o.h.validator.internal.util.Version –HV000001: Hibernate Validator 6.1.7.Final
+1323 [restartedMain] INFO  com.example.demo.JavaApplication –Starting JavaApplication using Java 15.0.2 on Best-Komp with PID 5888 (C:\Users\Admin\IdeaProjects\pr21\target\classes started by Admin in C:\Users\Admin\IdeaProjects\pr21)
+1325 [restartedMain] INFO  com.example.demo.JavaApplication –No active profile set, falling back to default profiles: default
+1407 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor –Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+1407 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor –For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2654 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate –Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2724 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate –Finished Spring Data repository scanning in 60 ms. Found 2 JPA repository interfaces.
+3396 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer –Tomcat initialized with port(s): 8080 (http)
+3405 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol –Initializing ProtocolHandler ["http-nio-8080"]
+3406 [restartedMain] INFO  o.a.catalina.core.StandardService –Starting service [Tomcat]
+3406 [restartedMain] INFO  o.a.catalina.core.StandardEngine –Starting Servlet engine: [Apache Tomcat/9.0.44]
+3500 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] –Initializing Spring embedded WebApplicationContext
+3500 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext –Root WebApplicationContext: initialization completed in 2091 ms
+3810 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper –HHH000204: Processing PersistenceUnitInfo [name: default]
+3848 [restartedMain] INFO  org.hibernate.Version –HHH000412: Hibernate ORM core version 5.4.29.Final
+3965 [restartedMain] INFO  o.h.annotations.common.Version –HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+4050 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource –HikariPool-1 - Starting...
+4220 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource –HikariPool-1 - Start completed.
+4233 [restartedMain] INFO  org.hibernate.dialect.Dialect –HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+5089 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator –HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+5098 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean –Initialized JPA EntityManagerFactory for persistence unit 'default'
+5136 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer –LiveReload server is running on port 35729
+5618 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration –spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+5748 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor –Initializing ExecutorService 'applicationTaskExecutor'
+6163 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver –Exposing 2 endpoint(s) beneath base path '/actuator'
+6204 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol –Starting ProtocolHandler ["http-nio-8080"]
+6225 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer –Tomcat started on port(s): 8080 (http) with context path ''
+6245 [restartedMain] INFO  com.example.demo.JavaApplication –Started JavaApplication in 5.652 seconds (JVM running for 7.081)
+6485 [RMI TCP Connection(5)-172.18.33.49] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] –Initializing Spring DispatcherServlet 'dispatcherServlet'
+6485 [RMI TCP Connection(5)-172.18.33.49] INFO  o.s.web.servlet.DispatcherServlet –Initializing Servlet 'dispatcherServlet'
+6486 [RMI TCP Connection(5)-172.18.33.49] INFO  o.s.web.servlet.DispatcherServlet –Completed initialization in 1 ms
+10520 [http-nio-8080-exec-2] INFO  com.example.demo.log.Aspect –Parameters: {}
+10543 [http-nio-8080-exec-2] INFO  c.example.demo.service.bankService –Found all banks
+10713 [http-nio-8080-exec-2] INFO  com.example.demo.log.Aspect –Parameters: {}
+10720 [http-nio-8080-exec-2] INFO  c.example.demo.service.cardService –Found all cards
+12057 [http-nio-8080-exec-4] INFO  com.example.demo.log.Aspect –Parameters: {}
+12057 [http-nio-8080-exec-4] INFO  c.example.demo.service.bankService –Found all banks
+12061 [http-nio-8080-exec-4] INFO  com.example.demo.log.Aspect –Parameters: {}
+12061 [http-nio-8080-exec-4] INFO  c.example.demo.service.cardService –Found all cards
+12666 [http-nio-8080-exec-6] INFO  com.example.demo.log.Aspect –Parameters: {}
+12667 [http-nio-8080-exec-6] INFO  c.example.demo.service.bankService –Found all banks
+12672 [http-nio-8080-exec-6] INFO  com.example.demo.log.Aspect –Parameters: {}
+12673 [http-nio-8080-exec-6] INFO  c.example.demo.service.cardService –Found all cards
+13107 [http-nio-8080-exec-8] INFO  com.example.demo.log.Aspect –Parameters: {}
+13107 [http-nio-8080-exec-8] INFO  c.example.demo.service.bankService –Found all banks
+13110 [http-nio-8080-exec-8] INFO  com.example.demo.log.Aspect –Parameters: {}
+13111 [http-nio-8080-exec-8] INFO  c.example.demo.service.cardService –Found all cards
+47601 [http-nio-8080-exec-10] INFO  com.example.demo.log.Aspect –Parameters: Bank(id=null, name=ewcdecwc, address=vfdvf, cardList=null)
+47601 [http-nio-8080-exec-10] INFO  c.example.demo.service.bankService –Added new bank Bank(id=null, name=ewcdecwc, address=vfdvf, cardList=null)
+48764 [http-nio-8080-exec-9] INFO  com.example.demo.log.Aspect –Parameters: {}
+48765 [http-nio-8080-exec-9] INFO  c.example.demo.service.bankService –Found all banks
+48773 [http-nio-8080-exec-9] INFO  com.example.demo.log.Aspect –Parameters: {}
+48773 [http-nio-8080-exec-9] INFO  c.example.demo.service.cardService –Found all cards
